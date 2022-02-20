@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derykroot
 - 👀 I’m interested in Developing and IT
-- 🌱 I’m currently learning Typescript, C#, Java, Neo4J
+- 🌱 I’m currently learning Typescript, C#, Java, Neo4J, Machine Learning
 - 💞️ I’m looking to collaborate on system for data science
 - 📫 How to reach me for now only github
 
