@@ -67,8 +67,8 @@ Python, Java, C, Pascal, Bash
 - OS & Linux Distro: FreeBSD, Debian, VoidLinux 
 
 ### Currently
-Learning Machine Learning
-Collaborate on system for data science
+- Learning Machine Learning
+- Collaborate on system for data science
 
 
 <!---
